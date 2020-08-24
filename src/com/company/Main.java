@@ -7,5 +7,7 @@ public class Main {
         System.out.println("first test");
         System.out.println("second");
         System.out.println("third");
+        System.out.println("four");
+        System.out.println("aaa");
     }
 }
